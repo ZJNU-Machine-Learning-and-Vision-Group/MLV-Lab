@@ -102,8 +102,8 @@ We are currently recruiting self-motivated PhD and MPhil students. Please carefu
 
 ### Group Members
 + Teachers
-  + [Zhonglong Zheng](http://mypage.zjnu.edu.cn/ZZL4/zh_CN/index.htm)
-  + [Xiaowei He](http://mypage.zjnu.edu.cn/HXW2/zh_CN/index.htm)
+  + Professor [Zhonglong Zheng](http://mypage.zjnu.edu.cn/ZZL4/zh_CN/index.htm), Ph.D Tutor, Master Instructor. 
+  + Professor [Xiaowei He](http://mypage.zjnu.edu.cn/HXW2/zh_CN/index.htm), Master Instructor. 
 + Postdocs
   + Khodja Abderraouf
   + Ali Khan
@@ -111,15 +111,15 @@ We are currently recruiting self-motivated PhD and MPhil students. Please carefu
 + Visitors
   + Fang Liu
 + Ph.D Students
-  + Khodja Abderraouf
-  + Dawei Zhang
-  + Tianxiang Wang
-  + Liyuan Chen
-  + Chang Wan
-  + Jiashuaizi Mo
-  + Zheng Bao
-  + Ge Ying
-  + Ting Li
+  + Khodja Abderraouf (2017 -- 2021, Maths, Research: Low-level Vision, Deep Learning)
+  + Dawei Zhang (2019 --  , CS, Research: Visual Object Tracking, Deep Learning)
+  + Tianxiang Wang (2019 -- , CS, Research: Federated Learning, Optimization)
+  + Liyuan Chen (2020 -- , CS, Research: Salient Object Detection, Enery-based Model)
+  + Chang Wan (2020 -- , CS, Research: Generative Adversarial Nets, Diffusion Model)
+  + Jiashuaizi Mo (2021 -- , CS, Research: Object Detection, 3D Renderring)
+  + Zheng Bao (2021 -- , CS, Research: Blockchain, Federated Learning)
+  + Ge Ying (2021 -- , CS, Research: Deep Learning, Transformer)
+  + Ting Li (2022 -- , CS, Research: Wireless Rechargeable Network, Internet of Things)
 + Master Students
   + Jianshu Zhang
   + Huijun Hao
@@ -151,4 +151,5 @@ We are currently recruiting self-motivated PhD and MPhil students. Please carefu
 ### Contact
 + No. 688, Yingbin Avenue, Wucheng District, Jinhua City, Zhejiang Province
 + zhonglong@zjnu.edu.cn
++ jhhxw@zjnu.edu.cn
 + davidzhang@zjnu.edu.cn
