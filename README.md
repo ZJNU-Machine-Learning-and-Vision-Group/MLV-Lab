@@ -144,6 +144,8 @@ We are currently recruiting self-motivated PhD and MPhil students. Please carefu
   + Xiuling Zhang
   + Hao Fang
   + Jiechao Ren
+  + Xie Chen
+  + Zhiquan Jiang
 
 
 ### Contact
