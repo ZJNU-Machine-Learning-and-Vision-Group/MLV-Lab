@@ -7,7 +7,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 # Table of Contents
 
 - [What's New](https://github.com/loretoparisi/CapsNet#whats-new)
-- [Abstract](https://github.com/loretoparisi/CapsNet#abstract) 🆕
+- [Abstract](https://github.com/loretoparisi/CapsNet#abstract)
 - [Documentation](https://github.com/loretoparisi/CapsNet#documentation)
 - [Discussions Groups](https://github.com/loretoparisi/CapsNet#discussion-groups)
 - [Official Implementations](https://github.com/loretoparisi/CapsNet#official-implementations)
@@ -22,7 +22,7 @@ CapsNet (Capsules Net) in Geoffrey E Hinton paper "Dynamic Routing Between Capsu
 
 ## Papers
 
-- [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://openreview.net/pdf?id=HJe6uANtwH), Yao-Hung Hubert Tsai, , Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov, ICLR 2020 🆕
+- [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://openreview.net/pdf?id=HJe6uANtwH), Yao-Hung Hubert Tsai, , Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov, ICLR 2020 
 
 ## Implementations By Dataset
 
@@ -36,7 +36,7 @@ We cover here the last and most interesting paper's abstract about Capsule Netwo
 
 *We introduce a new routing algorithm for capsule networks, in which a child capsule is routed to a parent based only on agreement between the parent's state and the child's vote. The new mechanism 1) designs routing via inverted dot-product attention; 2) imposes Layer Normalization as normalization; and 3) replaces sequential iterative routing with concurrent iterative routing. When compared to previously proposed routing algorithms, our method improves performance on benchmark datasets such as CIFAR-10 and CIFAR-100, and it performs at-par with a powerful CNN (ResNet-18) with 4x fewer parameters. On a different task of recognizing digits from overlayed digit images, the proposed capsule model performs favorably against CNNs given the same number of layers and neurons per layer. We believe that our work raises the possibility of applying capsule networks to complex real-world tasks. Our code is publicly available at: https://github.com/apple/ml-capsules-inverted-attention-routing An alternative implementation is available at: https://github.com/yaohungt/Capsules-Inverted-Attention-Routing/blob/master/README.md*
 
-Excerpt from [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://openreview.net/pdf?id=HJe6uANtwH), Yao-Hung Hubert Tsai, , Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov, ICLR 2020 🆕
+Excerpt from [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://openreview.net/pdf?id=HJe6uANtwH), Yao-Hung Hubert Tsai, , Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov, ICLR 2020 
 
 [UP](https://github.com/loretoparisi/CapsNet#CapsNet)
 
@@ -59,12 +59,12 @@ Excerpt from [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://open
 - [DeepCaps: Going Deeper with Capsule Networks](https://arxiv.org/abs/1904.09546)
 - [Avoiding Implementation Pitfalls of "Matrix Capsules with EM Routing" by Hinton et al.](https://arxiv.org/abs/1907.00652) Ashley Gritzman, Aug 2019
 - [A Neural-Symbolic Architecture for Inverse Graphics Improved by Lifelong Meta-Learning](https://arxiv.org/abs/1905.08910)
-- [Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks](https://arxiv.org/abs/1905.09891)🆕
+- [Adding Intuitive Physics to Neural-Symbolic Capsules Using Interaction Networks](https://arxiv.org/abs/1905.09891)
 - [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455)
 - [Building Deep, Equivariant Capsule Networks](https://arxiv.org/abs/1908.01300)
 - [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818), Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton, 17 Jun 2019, revised 2 Dec 2019
 - [Capsule Routing via Variational Bayes](https://arxiv.org/abs/1905.11455), Fabio De Sousa Ribeiro, Georgios Leontidis, Stefanos Kollias, 27 May 2019 (v1), last revised 3 Dec 2019
-- [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://openreview.net/pdf?id=HJe6uANtwH), Yao-Hung Hubert Tsai, , Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov, ICLR 2020 🆕
+- [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://openreview.net/pdf?id=HJe6uANtwH), Yao-Hung Hubert Tsai, , Nitish Srivastava, Hanlin Goh, Ruslan Salakhutdinov, ICLR 2020 
 
 [UP](https://github.com/loretoparisi/CapsNet#CapsNet)
 
@@ -73,7 +73,7 @@ Excerpt from [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://open
 - [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 - [Understanding Hinton’s Capsule Networks. Part II: How Capsules Work.](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
 - [Understanding Hinton’s Capsule Networks. Part III: Dynamic Routing Between Capsules.](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-iii-dynamic-routing-between-capsules-349f6d30418)
-- [Understanding Hinton’s Capsule Networks. Part IV: CapsNet Architecture](https://medium.com/@pechyonkin/part-iv-capsnet-architecture-6a64422f7dce) 🆕
+- [Understanding Hinton’s Capsule Networks. Part IV: CapsNet Architecture](https://medium.com/@pechyonkin/part-iv-capsnet-architecture-6a64422f7dce) 
 - [What is a CapsNet or Capsule Network?](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
 - [Understanding Dynamic Routing between Capsules (Capsule Networks)](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/)
 - [Matrix capsules with EM routing](https://blog.acolyer.org/2017/11/14/matrix-capsules-with-em-routing/)
@@ -100,7 +100,8 @@ Excerpt from [CAPSULES WITH INVERTED DOT-PRODUCT ATTENTION ROUTING](https://open
 
 - [CapsNet-Tensorflow](https://gitter.im/CapsNet-Tensorflow/Lobby)
 - [Capsule Networks discussion - Facebook](https://www.facebook.com/groups/1830303997268623)
-- [Could GANs work with Hinton's capsule theory?](https://www.quora.com/Could-GANs-work-with-Hintons-capsule-theory) 🆕
+- [Could GANs work with Hinton's capsule theory?](https://www.quora.com/Could-GANs-work-with-Hintons-capsule-theory) 
+
 
 # Official Implementations
 
@@ -111,7 +112,7 @@ The implementations has been considered to be official since the authors were di
 
 # Proof of Work
 
-- [Adversarial Attack to Capsule Networks](https://github.com/jaesik817/adv_attack_capsnet) 🆕
+- [Adversarial Attack to Capsule Networks](https://github.com/jaesik817/adv_attack_capsnet) 
 
 # Other Resources
 
@@ -135,7 +136,7 @@ The implementations has been considered to be official since the authors were di
 - [leftthomas/CCN](https://github.com/leftthomas/CCN)
 - [gram-ai/capsule-networks](https://github.com/gram-ai/capsule-networks)
 - [fabio-deep/Variational-Capsule-Routing](https://github.com/fabio-deep/Variational-Capsule-Routing)
-- [apple/ml-capsules-inverted-attention-routing](https://github.com/apple/ml-capsules-inverted-attention-routing) 🆕
+- [apple/ml-capsules-inverted-attention-routing](https://github.com/apple/ml-capsules-inverted-attention-routing)
 
 ## Pytorch + CUDA
 
@@ -171,7 +172,7 @@ The implementations has been considered to be official since the authors were di
 - [jostosh/capsnet](https://github.com/jostosh/capsnet)
 - [alisure-ml/CapsNet](https://github.com/alisure-ml/CapsNet)
 - [bourdakos1/CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization)
-- [andyweizhao/capsule_text_classification](https://github.com/andyweizhao/capsule_text_classification) 🆕
+- [andyweizhao/capsule_text_classification](https://github.com/andyweizhao/capsule_text_classification)
 
 ## Keras
 
@@ -182,7 +183,7 @@ The implementations has been considered to be official since the authors were di
 - [streamride/CapsNet-keras-imdb](https://github.com/streamride/CapsNet-keras-imdb)
 - [fengwang/minimal-capsule](https://github.com/fengwang/minimal-capsule)
 - [vinojjayasundara/textcaps](https://github.com/vinojjayasundara/textcaps)
-- [Kayzaks/VividNet](https://github.com/Kayzaks/VividNet) 🆕
+- [Kayzaks/VividNet](https://github.com/Kayzaks/VividNet)
 
 [UP](https://github.com/loretoparisi/CapsNet#CapsNet)
 
@@ -289,7 +290,7 @@ The implementations has been considered to be official since the authors were di
 
 ## Text Classification
 
-- [andyweizhao/capsule_text_classification](https://github.com/andyweizhao/capsule_text_classification) 🆕
+- [andyweizhao/capsule_text_classification](https://github.com/andyweizhao/capsule_text_classification)
 
 ## Speech Recognition
 
