@@ -1,1 +1,1 @@
-# GAMs
+# GANs
