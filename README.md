@@ -106,15 +106,15 @@ We are currently recruiting self-motivated PhD and MPhil students. Please carefu
 + Visitors
   + Fang Liu
 + Ph.D Students
-  + Khodja Abderraouf (2017 -- 2021, Maths, Research: Low-level Vision, Deep Learning)
-  + Dawei Zhang (2019 --  , CS, Research: Visual Object Tracking, Deep Learning)
-  + Tianxiang Wang (2019 -- , CS, Research: Federated Learning, Optimization)
-  + Liyuan Chen (2020 -- , CS, Research: Salient Object Detection, Enery-based Model)
-  + Chang Wan (2020 -- , CS, Research: Generative Adversarial Nets, Diffusion Model)
-  + Jiashuaizi Mo (2021 -- , CS, Research: Object Detection, 3D Renderring)
-  + Zheng Bao (2021 -- , CS, Research: Blockchain, Federated Learning)
-  + Ge Ying (2021 -- , CS, Research: Deep Learning, Transformer)
-  + Ting Li (2022 -- , CS, Research: Wireless Rechargeable Network, Internet of Things)
+  + Khodja Abderraouf (2017 - 2021, Maths, Research: Low-level Vision, Deep Learning)
+  + Dawei Zhang (2019 -  , CS, Research: Visual Object Tracking, Deep Learning)
+  + Tianxiang Wang (2019 - , CS, Research: Federated Learning, Optimization)
+  + Liyuan Chen (2020 - , CS, Research: Salient Object Detection, Enery-based Model)
+  + Chang Wan (2020 - , CS, Research: Generative Adversarial Nets, Diffusion Model)
+  + Jiashuaizi Mo (2021 - , CS, Research: Object Detection, 3D Renderring)
+  + Zheng Bao (2021 - , CS, Research: Blockchain, Federated Learning)
+  + Ge Ying (2021 - , CS, Research: Deep Learning, Transformer)
+  + Ting Li (2022 - , CS, Research: Wireless Rechargeable Network, Internet of Things)
 + Master Students
 
 
