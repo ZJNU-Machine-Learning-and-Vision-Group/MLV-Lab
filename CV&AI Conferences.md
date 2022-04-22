@@ -7,7 +7,7 @@
 #### Others
 
 + ICME, BMVC, ICIP, ICPR, WACV, ACCV, IJCNN
-+ 难度最低B，ICASSP；最高B，ECCV；难度和等级最不匹配的会：ACCV
++ 难度最低B：ICASSP；难度最高B：ECCV；难度和等级不太匹配：ACCV
 
 #### AcceptRate
 
