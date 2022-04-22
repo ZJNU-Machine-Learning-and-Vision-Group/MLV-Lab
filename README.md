@@ -95,11 +95,6 @@ We are currently recruiting self-motivated PhD and MPhil students. Please carefu
   "Fisher discrimination based low rank matrix recovery for face recognition." Pattern Recognition (2014).
   
 
-### Patents
-  
-
-
-
 ### Group Members
 + Teachers
   + Professor [Zhonglong Zheng](http://mypage.zjnu.edu.cn/ZZL4/zh_CN/index.htm), Ph.D Tutor, Master Instructor. 
@@ -121,31 +116,6 @@ We are currently recruiting self-motivated PhD and MPhil students. Please carefu
   + Ge Ying (2021 -- , CS, Research: Deep Learning, Transformer)
   + Ting Li (2022 -- , CS, Research: Wireless Rechargeable Network, Internet of Things)
 + Master Students
-  + Jianshu Zhang
-  + Huijun Hao
-  + Wenjing Guo
-  + Yufeng Zhang
-  + Tianxiang Wang
-  + Zhixuan Deng
-  + Dawei Zhang
-  + Liyuan Chen
-  + Liu Su
-  + Haichao Hu
-  + Huali Chen
-  + Pengcheng Bian
-  + Jiashuaizi Mo
-  + Haihui Xu
-  + Yiran He
-  + Jiaxin Liu
-  + Yucheng Wang
-  + Fujuan Yu
-  + Jiachen Yu
-  + Peiqi Chen
-  + Xiuling Zhang
-  + Hao Fang
-  + Jiechao Ren
-  + Xie Chen
-  + Zhiquan Jiang
 
 
 ### Contact
