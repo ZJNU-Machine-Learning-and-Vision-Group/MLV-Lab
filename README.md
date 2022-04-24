@@ -8,23 +8,22 @@ We study machine learning, deep learning, pattern recognition, image processing 
 
 ### Research
 + Machine Learning Algorithms
-  + Dictionary Learning, Dimensionality reduction, Feature extraction, PCA
-  + Low Rank Representation, Sparse Representation, Manifold learning, Clustering 
-  + Federated learning, Convergence analysis, Convex optimization, Optimization
+  + Dictionary Learning, Dimensionality reduction, Clustering 
+  + Low Rank, Sparse Representation, Manifold learning, 
+  + Federated learning, Convergence analysis, Optimization
 + Image Processing
   + Image denoising, Image reconstruction, Image deblurring
   + Low-light image enhancement, Image super-resolution 
 + Deep Learning
-  + Neural networks, CNN, GNN, CapsNet
+  + Neural networks, MLP, CNN, GraphNN
   + Generative Adversarial Network
   + Attention mechanism, Transformer 
   + Adversarial attack, Interpretability
 + Computer Vision
   + Image classification, Face detection, Face recognition
-  + Object detection, Salient object detection
+  + Object detection and recognition, Salient object detection
   + Visual object tracking, Video instance segmentation
-  + Depth evaluation, Pose estimation
-  + 3D vision, 3D modeling, Rendering
+  + Depth evaluation, 3D vision, 3D modeling, Rendering
 
   
 ### Call for Students 
